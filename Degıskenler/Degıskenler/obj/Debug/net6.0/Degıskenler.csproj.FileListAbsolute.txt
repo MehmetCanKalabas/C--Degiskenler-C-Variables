@@ -1,0 +1,15 @@
+D:\C#\Degıskenler\Degıskenler\bin\Debug\net6.0\Degıskenler.exe
+D:\C#\Degıskenler\Degıskenler\bin\Debug\net6.0\Degıskenler.deps.json
+D:\C#\Degıskenler\Degıskenler\bin\Debug\net6.0\Degıskenler.runtimeconfig.json
+D:\C#\Degıskenler\Degıskenler\bin\Debug\net6.0\Degıskenler.dll
+D:\C#\Degıskenler\Degıskenler\bin\Debug\net6.0\Degıskenler.pdb
+D:\C#\Degıskenler\Degıskenler\obj\Debug\net6.0\Degıskenler.csproj.AssemblyReference.cache
+D:\C#\Degıskenler\Degıskenler\obj\Debug\net6.0\Degıskenler.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Degıskenler\Degıskenler\obj\Debug\net6.0\Degıskenler.AssemblyInfoInputs.cache
+D:\C#\Degıskenler\Degıskenler\obj\Debug\net6.0\Degıskenler.AssemblyInfo.cs
+D:\C#\Degıskenler\Degıskenler\obj\Debug\net6.0\Degıskenler.csproj.CoreCompileInputs.cache
+D:\C#\Degıskenler\Degıskenler\obj\Debug\net6.0\Degıskenler.dll
+D:\C#\Degıskenler\Degıskenler\obj\Debug\net6.0\refint\Degıskenler.dll
+D:\C#\Degıskenler\Degıskenler\obj\Debug\net6.0\Degıskenler.pdb
+D:\C#\Degıskenler\Degıskenler\obj\Debug\net6.0\Degıskenler.genruntimeconfig.cache
+D:\C#\Degıskenler\Degıskenler\obj\Debug\net6.0\ref\Degıskenler.dll
